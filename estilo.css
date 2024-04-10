@@ -1,0 +1,23 @@
+.contenedor {
+    font-size: 2rem;
+    color: rgb(11, 0, 85);
+    align-content: center;
+}
+
+body{
+    background-color: darkgray;
+    width: 680px;
+    height: 1024px;
+
+}
+
+.contenedor1{
+    font-size: 1.2 rem;
+    color: rgb(11, 0, 85);
+    font-family: serif;
+    align-content: normal;
+}
+
+footer{
+    align-items: end;
+}
